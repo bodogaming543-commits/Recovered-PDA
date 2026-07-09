@@ -17,13 +17,16 @@ line-height:1.8;
 cursor:pointer;
 
 overflow-y:hidden;
-
+background:black;
 font-family: monospace;
 overflow-y:auto;
 }
 
-body{
-
-overflow-x:hidden;
-    
+html, body{
+    margin:0;
+    padding:0;
+    width:100%;
+   height:100%;
+    background:black;
+overflow:hidden;   
 }
