@@ -22,7 +22,12 @@ WARNING
 Recovered personal logs detected.
 
 
-Tap anywhere to continue.`,
+Tap anywhere to continue.
+
+.
+.
+.
+.`,
 auto:false
 },
 
@@ -157,7 +162,12 @@ Abdelrahman: no
 
 May Thinzar: oh you are really a man
 
-Tap anywhere to continue.`,
+Tap anywhere to continue.
+.
+.
+.
+.
+`,
 auto:false
 },
 
@@ -207,7 +217,12 @@ Take care of yourself.
 
 See you in the next mission.
 
-----------------------------------------`,
+----------------------------------------
+.
+.
+.
+.
+`,
 auto:false
 }
 
