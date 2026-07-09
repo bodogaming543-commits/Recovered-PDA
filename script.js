@@ -147,7 +147,7 @@ Abdelrahman: YAAAAAY
 
 May Thinzar: send me your tik tok
 
-Abdelrahman: ok i will send it afteri win
+Abdelrahman: ok i will send it after I win
 
 May Thinzar: haha i am winning
 
